@@ -263,6 +263,13 @@ This capstone demonstrates a complete analytical workflow:
 
 ---
 
+## Google Professional Certificate
+
+This project was completed as part of the **Google Digital Marketing & E-commerce Professional Certificate**, applying marketing analytics, campaign optimization, and performance reporting to a simulated business scenario.
+
+📜 [View Google Professional Certificate](./05_Google_Digital_Marketing_Certificate.pdf)
+
+
 ## About Me
 
 I am a Data Analyst with a background in Mathematics and ongoing graduate studies in Data Science.
