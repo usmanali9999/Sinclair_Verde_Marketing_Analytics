@@ -145,7 +145,7 @@ The revised keyword selection provided a quantified, budget-compliant traffic ac
 
 The assignment suggested that keyword improvements could potentially increase clicks by up to 20%, but no actual post-optimization campaign results were provided.
 
-**Deliverable:** `02_Google_Ads_Keyword_Optimization.xlsx.xlsx`
+**Deliverable:** `02_Google_Ads_Keyword_Optimization.xlsx`
 
 ---
 
